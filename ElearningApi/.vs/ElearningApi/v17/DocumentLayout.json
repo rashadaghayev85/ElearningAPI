@@ -1,0 +1,1227 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Rashad\\OneDrive\\Desktop\\PB101\\code\\ElearningApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{209DE05E-F67C-4A26-AA1E-CE8EB81DAEFA}|ElearningApi\\ElearningApi.csproj|c:\\users\\rashad\\onedrive\\desktop\\pb101\\code\\elearningapi\\elearningapi\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{209DE05E-F67C-4A26-AA1E-CE8EB81DAEFA}|ElearningApi\\ElearningApi.csproj|solutionrelative:elearningapi\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{209DE05E-F67C-4A26-AA1E-CE8EB81DAEFA}|ElearningApi\\ElearningApi.csproj|c:\\users\\rashad\\onedrive\\desktop\\pb101\\code\\elearningapi\\elearningapi\\controllers\\aboutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{209DE05E-F67C-4A26-AA1E-CE8EB81DAEFA}|ElearningApi\\ElearningApi.csproj|solutionrelative:elearningapi\\controllers\\aboutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{209DE05E-F67C-4A26-AA1E-CE8EB81DAEFA}|ElearningApi\\ElearningApi.csproj|c:\\users\\rashad\\onedrive\\desktop\\pb101\\code\\elearningapi\\elearningapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{209DE05E-F67C-4A26-AA1E-CE8EB81DAEFA}|ElearningApi\\ElearningApi.csproj|solutionrelative:elearningapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{209DE05E-F67C-4A26-AA1E-CE8EB81DAEFA}|ElearningApi\\ElearningApi.csproj|c:\\users\\rashad\\onedrive\\desktop\\pb101\\code\\elearningapi\\elearningapi\\services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{209DE05E-F67C-4A26-AA1E-CE8EB81DAEFA}|ElearningApi\\ElearningApi.csproj|solutionrelative:elearningapi\\services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{209DE05E-F67C-4A26-AA1E-CE8EB81DAEFA}|ElearningApi\\ElearningApi.csproj|c:\\users\\rashad\\onedrive\\desktop\\pb101\\code\\elearningapi\\elearningapi\\services\\aboutservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{209DE05E-F67C-4A26-AA1E-CE8EB81DAEFA}|ElearningApi\\ElearningApi.csproj|solutionrelative:elearningapi\\services\\aboutservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{209DE05E-F67C-4A26-AA1E-CE8EB81DAEFA}|ElearningApi\\ElearningApi.csproj|c:\\users\\rashad\\onedrive\\desktop\\pb101\\code\\elearningapi\\elearningapi\\services\\socialservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{209DE05E-F67C-4A26-AA1E-CE8EB81DAEFA}|ElearningApi\\ElearningApi.csproj|solutionrelative:elearningapi\\services\\socialservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{209DE05E-F67C-4A26-AA1E-CE8EB81DAEFA}|ElearningApi\\ElearningApi.csproj|c:\\users\\rashad\\onedrive\\desktop\\pb101\\code\\elearningapi\\elearningapi\\services\\interfaces\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{209DE05E-F67C-4A26-AA1E-CE8EB81DAEFA}|ElearningApi\\ElearningApi.csproj|solutionrelative:elearningapi\\services\\interfaces\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{209DE05E-F67C-4A26-AA1E-CE8EB81DAEFA}|ElearningApi\\ElearningApi.csproj|c:\\users\\rashad\\onedrive\\desktop\\pb101\\code\\elearningapi\\elearningapi\\services\\interfaces\\iaboutservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{209DE05E-F67C-4A26-AA1E-CE8EB81DAEFA}|ElearningApi\\ElearningApi.csproj|solutionrelative:elearningapi\\services\\interfaces\\iaboutservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{209DE05E-F67C-4A26-AA1E-CE8EB81DAEFA}|ElearningApi\\ElearningApi.csproj|c:\\users\\rashad\\onedrive\\desktop\\pb101\\code\\elearningapi\\elearningapi\\helpers\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{209DE05E-F67C-4A26-AA1E-CE8EB81DAEFA}|ElearningApi\\ElearningApi.csproj|solutionrelative:elearningapi\\helpers\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{209DE05E-F67C-4A26-AA1E-CE8EB81DAEFA}|ElearningApi\\ElearningApi.csproj|c:\\users\\rashad\\onedrive\\desktop\\pb101\\code\\elearningapi\\elearningapi\\dtos\\instructors\\instructorcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{209DE05E-F67C-4A26-AA1E-CE8EB81DAEFA}|ElearningApi\\ElearningApi.csproj|solutionrelative:elearningapi\\dtos\\instructors\\instructorcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{209DE05E-F67C-4A26-AA1E-CE8EB81DAEFA}|ElearningApi\\ElearningApi.csproj|c:\\users\\rashad\\onedrive\\desktop\\pb101\\code\\elearningapi\\elearningapi\\dtos\\students\\studenteditdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{209DE05E-F67C-4A26-AA1E-CE8EB81DAEFA}|ElearningApi\\ElearningApi.csproj|solutionrelative:elearningapi\\dtos\\students\\studenteditdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{209DE05E-F67C-4A26-AA1E-CE8EB81DAEFA}|ElearningApi\\ElearningApi.csproj|c:\\users\\rashad\\onedrive\\desktop\\pb101\\code\\elearningapi\\elearningapi\\dtos\\students\\studentcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{209DE05E-F67C-4A26-AA1E-CE8EB81DAEFA}|ElearningApi\\ElearningApi.csproj|solutionrelative:elearningapi\\dtos\\students\\studentcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{209DE05E-F67C-4A26-AA1E-CE8EB81DAEFA}|ElearningApi\\ElearningApi.csproj|c:\\users\\rashad\\onedrive\\desktop\\pb101\\code\\elearningapi\\elearningapi\\dtos\\instructors\\instructoreditdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{209DE05E-F67C-4A26-AA1E-CE8EB81DAEFA}|ElearningApi\\ElearningApi.csproj|solutionrelative:elearningapi\\dtos\\instructors\\instructoreditdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{209DE05E-F67C-4A26-AA1E-CE8EB81DAEFA}|ElearningApi\\ElearningApi.csproj|c:\\users\\rashad\\onedrive\\desktop\\pb101\\code\\elearningapi\\elearningapi\\dtos\\students\\studentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{209DE05E-F67C-4A26-AA1E-CE8EB81DAEFA}|ElearningApi\\ElearningApi.csproj|solutionrelative:elearningapi\\dtos\\students\\studentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{209DE05E-F67C-4A26-AA1E-CE8EB81DAEFA}|ElearningApi\\ElearningApi.csproj|c:\\users\\rashad\\onedrive\\desktop\\pb101\\code\\elearningapi\\elearningapi\\dtos\\instructors\\instructordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{209DE05E-F67C-4A26-AA1E-CE8EB81DAEFA}|ElearningApi\\ElearningApi.csproj|solutionrelative:elearningapi\\dtos\\instructors\\instructordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{209DE05E-F67C-4A26-AA1E-CE8EB81DAEFA}|ElearningApi\\ElearningApi.csproj|c:\\users\\rashad\\onedrive\\desktop\\pb101\\code\\elearningapi\\elearningapi\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{209DE05E-F67C-4A26-AA1E-CE8EB81DAEFA}|ElearningApi\\ElearningApi.csproj|solutionrelative:elearningapi\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{209DE05E-F67C-4A26-AA1E-CE8EB81DAEFA}|ElearningApi\\ElearningApi.csproj|c:\\users\\rashad\\onedrive\\desktop\\pb101\\code\\elearningapi\\elearningapi\\controllers\\instructorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{209DE05E-F67C-4A26-AA1E-CE8EB81DAEFA}|ElearningApi\\ElearningApi.csproj|solutionrelative:elearningapi\\controllers\\instructorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{209DE05E-F67C-4A26-AA1E-CE8EB81DAEFA}|ElearningApi\\ElearningApi.csproj|c:\\users\\rashad\\onedrive\\desktop\\pb101\\code\\elearningapi\\elearningapi\\controllers\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{209DE05E-F67C-4A26-AA1E-CE8EB81DAEFA}|ElearningApi\\ElearningApi.csproj|solutionrelative:elearningapi\\controllers\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{209DE05E-F67C-4A26-AA1E-CE8EB81DAEFA}|ElearningApi\\ElearningApi.csproj|c:\\users\\rashad\\onedrive\\desktop\\pb101\\code\\elearningapi\\elearningapi\\services\\instructorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{209DE05E-F67C-4A26-AA1E-CE8EB81DAEFA}|ElearningApi\\ElearningApi.csproj|solutionrelative:elearningapi\\services\\instructorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{209DE05E-F67C-4A26-AA1E-CE8EB81DAEFA}|ElearningApi\\ElearningApi.csproj|c:\\users\\rashad\\onedrive\\desktop\\pb101\\code\\elearningapi\\elearningapi\\services\\interfaces\\iinstructorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{209DE05E-F67C-4A26-AA1E-CE8EB81DAEFA}|ElearningApi\\ElearningApi.csproj|solutionrelative:elearningapi\\services\\interfaces\\iinstructorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{209DE05E-F67C-4A26-AA1E-CE8EB81DAEFA}|ElearningApi\\ElearningApi.csproj|c:\\users\\rashad\\onedrive\\desktop\\pb101\\code\\elearningapi\\elearningapi\\dtos\\abouts\\aboutcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{209DE05E-F67C-4A26-AA1E-CE8EB81DAEFA}|ElearningApi\\ElearningApi.csproj|solutionrelative:elearningapi\\dtos\\abouts\\aboutcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{209DE05E-F67C-4A26-AA1E-CE8EB81DAEFA}|ElearningApi\\ElearningApi.csproj|c:\\users\\rashad\\onedrive\\desktop\\pb101\\code\\elearningapi\\elearningapi\\dtos\\abouts\\aboutdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{209DE05E-F67C-4A26-AA1E-CE8EB81DAEFA}|ElearningApi\\ElearningApi.csproj|solutionrelative:elearningapi\\dtos\\abouts\\aboutdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{209DE05E-F67C-4A26-AA1E-CE8EB81DAEFA}|ElearningApi\\ElearningApi.csproj|c:\\users\\rashad\\onedrive\\desktop\\pb101\\code\\elearningapi\\elearningapi\\models\\instructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{209DE05E-F67C-4A26-AA1E-CE8EB81DAEFA}|ElearningApi\\ElearningApi.csproj|solutionrelative:elearningapi\\models\\instructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{209DE05E-F67C-4A26-AA1E-CE8EB81DAEFA}|ElearningApi\\ElearningApi.csproj|c:\\users\\rashad\\onedrive\\desktop\\pb101\\code\\elearningapi\\elearningapi\\controllers\\socialcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{209DE05E-F67C-4A26-AA1E-CE8EB81DAEFA}|ElearningApi\\ElearningApi.csproj|solutionrelative:elearningapi\\controllers\\socialcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{209DE05E-F67C-4A26-AA1E-CE8EB81DAEFA}|ElearningApi\\ElearningApi.csproj|c:\\users\\rashad\\onedrive\\desktop\\pb101\\code\\elearningapi\\elearningapi\\services\\informationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{209DE05E-F67C-4A26-AA1E-CE8EB81DAEFA}|ElearningApi\\ElearningApi.csproj|solutionrelative:elearningapi\\services\\informationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{209DE05E-F67C-4A26-AA1E-CE8EB81DAEFA}|ElearningApi\\ElearningApi.csproj|c:\\users\\rashad\\onedrive\\desktop\\pb101\\code\\elearningapi\\elearningapi\\services\\interfaces\\isocialservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{209DE05E-F67C-4A26-AA1E-CE8EB81DAEFA}|ElearningApi\\ElearningApi.csproj|solutionrelative:elearningapi\\services\\interfaces\\isocialservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{209DE05E-F67C-4A26-AA1E-CE8EB81DAEFA}|ElearningApi\\ElearningApi.csproj|c:\\users\\rashad\\onedrive\\desktop\\pb101\\code\\elearningapi\\elearningapi\\dtos\\socials\\socialeditdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{209DE05E-F67C-4A26-AA1E-CE8EB81DAEFA}|ElearningApi\\ElearningApi.csproj|solutionrelative:elearningapi\\dtos\\socials\\socialeditdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{209DE05E-F67C-4A26-AA1E-CE8EB81DAEFA}|ElearningApi\\ElearningApi.csproj|c:\\users\\rashad\\onedrive\\desktop\\pb101\\code\\elearningapi\\elearningapi\\dtos\\socials\\socialcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{209DE05E-F67C-4A26-AA1E-CE8EB81DAEFA}|ElearningApi\\ElearningApi.csproj|solutionrelative:elearningapi\\dtos\\socials\\socialcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{209DE05E-F67C-4A26-AA1E-CE8EB81DAEFA}|ElearningApi\\ElearningApi.csproj|c:\\users\\rashad\\onedrive\\desktop\\pb101\\code\\elearningapi\\elearningapi\\dtos\\socials\\socialdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{209DE05E-F67C-4A26-AA1E-CE8EB81DAEFA}|ElearningApi\\ElearningApi.csproj|solutionrelative:elearningapi\\dtos\\socials\\socialdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{209DE05E-F67C-4A26-AA1E-CE8EB81DAEFA}|ElearningApi\\ElearningApi.csproj|c:\\users\\rashad\\onedrive\\desktop\\pb101\\code\\elearningapi\\elearningapi\\models\\social.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{209DE05E-F67C-4A26-AA1E-CE8EB81DAEFA}|ElearningApi\\ElearningApi.csproj|solutionrelative:elearningapi\\models\\social.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{209DE05E-F67C-4A26-AA1E-CE8EB81DAEFA}|ElearningApi\\ElearningApi.csproj|c:\\users\\rashad\\onedrive\\desktop\\pb101\\code\\elearningapi\\elearningapi\\dtos\\informations\\informationcreateddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{209DE05E-F67C-4A26-AA1E-CE8EB81DAEFA}|ElearningApi\\ElearningApi.csproj|solutionrelative:elearningapi\\dtos\\informations\\informationcreateddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{209DE05E-F67C-4A26-AA1E-CE8EB81DAEFA}|ElearningApi\\ElearningApi.csproj|c:\\users\\rashad\\onedrive\\desktop\\pb101\\code\\elearningapi\\elearningapi\\dtos\\informations\\informationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{209DE05E-F67C-4A26-AA1E-CE8EB81DAEFA}|ElearningApi\\ElearningApi.csproj|solutionrelative:elearningapi\\dtos\\informations\\informationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{209DE05E-F67C-4A26-AA1E-CE8EB81DAEFA}|ElearningApi\\ElearningApi.csproj|c:\\users\\rashad\\onedrive\\desktop\\pb101\\code\\elearningapi\\elearningapi\\dtos\\categories\\categorycreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{209DE05E-F67C-4A26-AA1E-CE8EB81DAEFA}|ElearningApi\\ElearningApi.csproj|solutionrelative:elearningapi\\dtos\\categories\\categorycreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{209DE05E-F67C-4A26-AA1E-CE8EB81DAEFA}|ElearningApi\\ElearningApi.csproj|c:\\users\\rashad\\onedrive\\desktop\\pb101\\code\\elearningapi\\elearningapi\\controllers\\informationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{209DE05E-F67C-4A26-AA1E-CE8EB81DAEFA}|ElearningApi\\ElearningApi.csproj|solutionrelative:elearningapi\\controllers\\informationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{209DE05E-F67C-4A26-AA1E-CE8EB81DAEFA}|ElearningApi\\ElearningApi.csproj|c:\\users\\rashad\\onedrive\\desktop\\pb101\\code\\elearningapi\\elearningapi\\controllers\\slidercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{209DE05E-F67C-4A26-AA1E-CE8EB81DAEFA}|ElearningApi\\ElearningApi.csproj|solutionrelative:elearningapi\\controllers\\slidercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{209DE05E-F67C-4A26-AA1E-CE8EB81DAEFA}|ElearningApi\\ElearningApi.csproj|c:\\users\\rashad\\onedrive\\desktop\\pb101\\code\\elearningapi\\elearningapi\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{209DE05E-F67C-4A26-AA1E-CE8EB81DAEFA}|ElearningApi\\ElearningApi.csproj|solutionrelative:elearningapi\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{209DE05E-F67C-4A26-AA1E-CE8EB81DAEFA}|ElearningApi\\ElearningApi.csproj|c:\\users\\rashad\\onedrive\\desktop\\pb101\\code\\elearningapi\\elearningapi\\services\\courseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{209DE05E-F67C-4A26-AA1E-CE8EB81DAEFA}|ElearningApi\\ElearningApi.csproj|solutionrelative:elearningapi\\services\\courseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{209DE05E-F67C-4A26-AA1E-CE8EB81DAEFA}|ElearningApi\\ElearningApi.csproj|c:\\users\\rashad\\onedrive\\desktop\\pb101\\code\\elearningapi\\elearningapi\\services\\interfaces\\iinformationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{209DE05E-F67C-4A26-AA1E-CE8EB81DAEFA}|ElearningApi\\ElearningApi.csproj|solutionrelative:elearningapi\\services\\interfaces\\iinformationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{209DE05E-F67C-4A26-AA1E-CE8EB81DAEFA}|ElearningApi\\ElearningApi.csproj|c:\\users\\rashad\\onedrive\\desktop\\pb101\\code\\elearningapi\\elearningapi\\services\\interfaces\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{209DE05E-F67C-4A26-AA1E-CE8EB81DAEFA}|ElearningApi\\ElearningApi.csproj|solutionrelative:elearningapi\\services\\interfaces\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{209DE05E-F67C-4A26-AA1E-CE8EB81DAEFA}|ElearningApi\\ElearningApi.csproj|c:\\users\\rashad\\onedrive\\desktop\\pb101\\code\\elearningapi\\elearningapi\\dtos\\informations\\informationeditdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{209DE05E-F67C-4A26-AA1E-CE8EB81DAEFA}|ElearningApi\\ElearningApi.csproj|solutionrelative:elearningapi\\dtos\\informations\\informationeditdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{209DE05E-F67C-4A26-AA1E-CE8EB81DAEFA}|ElearningApi\\ElearningApi.csproj|c:\\users\\rashad\\onedrive\\desktop\\pb101\\code\\elearningapi\\elearningapi\\dtos\\categories\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{209DE05E-F67C-4A26-AA1E-CE8EB81DAEFA}|ElearningApi\\ElearningApi.csproj|solutionrelative:elearningapi\\dtos\\categories\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{209DE05E-F67C-4A26-AA1E-CE8EB81DAEFA}|ElearningApi\\ElearningApi.csproj|c:\\users\\rashad\\onedrive\\desktop\\pb101\\code\\elearningapi\\elearningapi\\dtos\\categories\\categoryeditdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{209DE05E-F67C-4A26-AA1E-CE8EB81DAEFA}|ElearningApi\\ElearningApi.csproj|solutionrelative:elearningapi\\dtos\\categories\\categoryeditdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{209DE05E-F67C-4A26-AA1E-CE8EB81DAEFA}|ElearningApi\\ElearningApi.csproj|c:\\users\\rashad\\onedrive\\desktop\\pb101\\code\\elearningapi\\elearningapi\\dtos\\courses\\coursedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{209DE05E-F67C-4A26-AA1E-CE8EB81DAEFA}|ElearningApi\\ElearningApi.csproj|solutionrelative:elearningapi\\dtos\\courses\\coursedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{209DE05E-F67C-4A26-AA1E-CE8EB81DAEFA}|ElearningApi\\ElearningApi.csproj|c:\\users\\rashad\\onedrive\\desktop\\pb101\\code\\elearningapi\\elearningapi\\models\\information.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{209DE05E-F67C-4A26-AA1E-CE8EB81DAEFA}|ElearningApi\\ElearningApi.csproj|solutionrelative:elearningapi\\models\\information.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{209DE05E-F67C-4A26-AA1E-CE8EB81DAEFA}|ElearningApi\\ElearningApi.csproj|c:\\users\\rashad\\onedrive\\desktop\\pb101\\code\\elearningapi\\elearningapi\\models\\informationicon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{209DE05E-F67C-4A26-AA1E-CE8EB81DAEFA}|ElearningApi\\ElearningApi.csproj|solutionrelative:elearningapi\\models\\informationicon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{209DE05E-F67C-4A26-AA1E-CE8EB81DAEFA}|ElearningApi\\ElearningApi.csproj|c:\\users\\rashad\\onedrive\\desktop\\pb101\\code\\elearningapi\\elearningapi\\dtos\\courses\\courseeditdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{209DE05E-F67C-4A26-AA1E-CE8EB81DAEFA}|ElearningApi\\ElearningApi.csproj|solutionrelative:elearningapi\\dtos\\courses\\courseeditdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{209DE05E-F67C-4A26-AA1E-CE8EB81DAEFA}|ElearningApi\\ElearningApi.csproj|c:\\users\\rashad\\onedrive\\desktop\\pb101\\code\\elearningapi\\elearningapi\\dtos\\courses\\coursecreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{209DE05E-F67C-4A26-AA1E-CE8EB81DAEFA}|ElearningApi\\ElearningApi.csproj|solutionrelative:elearningapi\\dtos\\courses\\coursecreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{209DE05E-F67C-4A26-AA1E-CE8EB81DAEFA}|ElearningApi\\ElearningApi.csproj|c:\\users\\rashad\\onedrive\\desktop\\pb101\\code\\elearningapi\\elearningapi\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{209DE05E-F67C-4A26-AA1E-CE8EB81DAEFA}|ElearningApi\\ElearningApi.csproj|solutionrelative:elearningapi\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{209DE05E-F67C-4A26-AA1E-CE8EB81DAEFA}|ElearningApi\\ElearningApi.csproj|c:\\users\\rashad\\onedrive\\desktop\\pb101\\code\\elearningapi\\elearningapi\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{209DE05E-F67C-4A26-AA1E-CE8EB81DAEFA}|ElearningApi\\ElearningApi.csproj|solutionrelative:elearningapi\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{209DE05E-F67C-4A26-AA1E-CE8EB81DAEFA}|ElearningApi\\ElearningApi.csproj|c:\\users\\rashad\\onedrive\\desktop\\pb101\\code\\elearningapi\\elearningapi\\models\\courseimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{209DE05E-F67C-4A26-AA1E-CE8EB81DAEFA}|ElearningApi\\ElearningApi.csproj|solutionrelative:elearningapi\\models\\courseimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{209DE05E-F67C-4A26-AA1E-CE8EB81DAEFA}|ElearningApi\\ElearningApi.csproj|c:\\users\\rashad\\onedrive\\desktop\\pb101\\code\\elearningapi\\elearningapi\\services\\interfaces\\icourseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{209DE05E-F67C-4A26-AA1E-CE8EB81DAEFA}|ElearningApi\\ElearningApi.csproj|solutionrelative:elearningapi\\services\\interfaces\\icourseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{209DE05E-F67C-4A26-AA1E-CE8EB81DAEFA}|ElearningApi\\ElearningApi.csproj|c:\\users\\rashad\\onedrive\\desktop\\pb101\\code\\elearningapi\\elearningapi\\dtos\\abouts\\abouteditdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{209DE05E-F67C-4A26-AA1E-CE8EB81DAEFA}|ElearningApi\\ElearningApi.csproj|solutionrelative:elearningapi\\dtos\\abouts\\abouteditdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{209DE05E-F67C-4A26-AA1E-CE8EB81DAEFA}|ElearningApi\\ElearningApi.csproj|c:\\users\\rashad\\onedrive\\desktop\\pb101\\code\\elearningapi\\elearningapi\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{209DE05E-F67C-4A26-AA1E-CE8EB81DAEFA}|ElearningApi\\ElearningApi.csproj|solutionrelative:elearningapi\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{209DE05E-F67C-4A26-AA1E-CE8EB81DAEFA}|ElearningApi\\ElearningApi.csproj|c:\\users\\rashad\\onedrive\\desktop\\pb101\\code\\elearningapi\\elearningapi\\models\\coursestudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{209DE05E-F67C-4A26-AA1E-CE8EB81DAEFA}|ElearningApi\\ElearningApi.csproj|solutionrelative:elearningapi\\models\\coursestudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{209DE05E-F67C-4A26-AA1E-CE8EB81DAEFA}|ElearningApi\\ElearningApi.csproj|c:\\users\\rashad\\onedrive\\desktop\\pb101\\code\\elearningapi\\elearningapi\\models\\about.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{209DE05E-F67C-4A26-AA1E-CE8EB81DAEFA}|ElearningApi\\ElearningApi.csproj|solutionrelative:elearningapi\\models\\about.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{209DE05E-F67C-4A26-AA1E-CE8EB81DAEFA}|ElearningApi\\ElearningApi.csproj|c:\\users\\rashad\\onedrive\\desktop\\pb101\\code\\elearningapi\\elearningapi\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{209DE05E-F67C-4A26-AA1E-CE8EB81DAEFA}|ElearningApi\\ElearningApi.csproj|solutionrelative:elearningapi\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Rashad\\OneDrive\\Desktop\\PB101\\code\\ElearningApi\\ElearningApi\\Migrations\\20240623202154_CreatedTables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ElearningApi\\Migrations\\20240623202154_CreatedTables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{209DE05E-F67C-4A26-AA1E-CE8EB81DAEFA}|ElearningApi\\ElearningApi.csproj|c:\\users\\rashad\\onedrive\\desktop\\pb101\\code\\elearningapi\\elearningapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{209DE05E-F67C-4A26-AA1E-CE8EB81DAEFA}|ElearningApi\\ElearningApi.csproj|solutionrelative:elearningapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{209DE05E-F67C-4A26-AA1E-CE8EB81DAEFA}|ElearningApi\\ElearningApi.csproj|c:\\users\\rashad\\onedrive\\desktop\\pb101\\code\\elearningapi\\elearningapi\\models\\slider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{209DE05E-F67C-4A26-AA1E-CE8EB81DAEFA}|ElearningApi\\ElearningApi.csproj|solutionrelative:elearningapi\\models\\slider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{209DE05E-F67C-4A26-AA1E-CE8EB81DAEFA}|ElearningApi\\ElearningApi.csproj|c:\\users\\rashad\\onedrive\\desktop\\pb101\\code\\elearningapi\\elearningapi\\models\\instructorsocial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{209DE05E-F67C-4A26-AA1E-CE8EB81DAEFA}|ElearningApi\\ElearningApi.csproj|solutionrelative:elearningapi\\models\\instructorsocial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{209DE05E-F67C-4A26-AA1E-CE8EB81DAEFA}|ElearningApi\\ElearningApi.csproj|c:\\users\\rashad\\onedrive\\desktop\\pb101\\code\\elearningapi\\elearningapi\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{209DE05E-F67C-4A26-AA1E-CE8EB81DAEFA}|ElearningApi\\ElearningApi.csproj|solutionrelative:elearningapi\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Rashad\\OneDrive\\Desktop\\PB101\\code\\ElearningApi\\ElearningApi\\Migrations\\20240623180529_CreatedAboutTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ElearningApi\\Migrations\\20240623180529_CreatedAboutTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{209DE05E-F67C-4A26-AA1E-CE8EB81DAEFA}|ElearningApi\\ElearningApi.csproj|c:\\users\\rashad\\onedrive\\desktop\\pb101\\code\\elearningapi\\elearningapi\\services\\sliderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{209DE05E-F67C-4A26-AA1E-CE8EB81DAEFA}|ElearningApi\\ElearningApi.csproj|solutionrelative:elearningapi\\services\\sliderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{209DE05E-F67C-4A26-AA1E-CE8EB81DAEFA}|ElearningApi\\ElearningApi.csproj|c:\\users\\rashad\\onedrive\\desktop\\pb101\\code\\elearningapi\\elearningapi\\dtos\\sliders\\sliderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{209DE05E-F67C-4A26-AA1E-CE8EB81DAEFA}|ElearningApi\\ElearningApi.csproj|solutionrelative:elearningapi\\dtos\\sliders\\sliderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{209DE05E-F67C-4A26-AA1E-CE8EB81DAEFA}|ElearningApi\\ElearningApi.csproj|c:\\users\\rashad\\onedrive\\desktop\\pb101\\code\\elearningapi\\elearningapi\\helpers\\entityconfigurations\\aboutconfigurations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{209DE05E-F67C-4A26-AA1E-CE8EB81DAEFA}|ElearningApi\\ElearningApi.csproj|solutionrelative:elearningapi\\helpers\\entityconfigurations\\aboutconfigurations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{209DE05E-F67C-4A26-AA1E-CE8EB81DAEFA}|ElearningApi\\ElearningApi.csproj|c:\\users\\rashad\\onedrive\\desktop\\pb101\\code\\elearningapi\\elearningapi\\helpers\\entityconfigurations\\sliderconfigurations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{209DE05E-F67C-4A26-AA1E-CE8EB81DAEFA}|ElearningApi\\ElearningApi.csproj|solutionrelative:elearningapi\\helpers\\entityconfigurations\\sliderconfigurations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{209DE05E-F67C-4A26-AA1E-CE8EB81DAEFA}|ElearningApi\\ElearningApi.csproj|c:\\users\\rashad\\onedrive\\desktop\\pb101\\code\\elearningapi\\elearningapi\\services\\interfaces\\isliderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{209DE05E-F67C-4A26-AA1E-CE8EB81DAEFA}|ElearningApi\\ElearningApi.csproj|solutionrelative:elearningapi\\services\\interfaces\\isliderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{209DE05E-F67C-4A26-AA1E-CE8EB81DAEFA}|ElearningApi\\ElearningApi.csproj|c:\\users\\rashad\\onedrive\\desktop\\pb101\\code\\elearningapi\\elearningapi\\dtos\\sliders\\slidercreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{209DE05E-F67C-4A26-AA1E-CE8EB81DAEFA}|ElearningApi\\ElearningApi.csproj|solutionrelative:elearningapi\\dtos\\sliders\\slidercreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{209DE05E-F67C-4A26-AA1E-CE8EB81DAEFA}|ElearningApi\\ElearningApi.csproj|c:\\users\\rashad\\onedrive\\desktop\\pb101\\code\\elearningapi\\elearningapi\\dtos\\sliders\\slidereditdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{209DE05E-F67C-4A26-AA1E-CE8EB81DAEFA}|ElearningApi\\ElearningApi.csproj|solutionrelative:elearningapi\\dtos\\sliders\\slidereditdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{209DE05E-F67C-4A26-AA1E-CE8EB81DAEFA}|ElearningApi\\ElearningApi.csproj|c:\\users\\rashad\\onedrive\\desktop\\pb101\\code\\elearningapi\\elearningapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{209DE05E-F67C-4A26-AA1E-CE8EB81DAEFA}|ElearningApi\\ElearningApi.csproj|solutionrelative:elearningapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Rashad\\OneDrive\\Desktop\\PB101\\code\\ElearningApi\\ElearningApi\\Migrations\\20240623152021_CreatedSliderTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ElearningApi\\Migrations\\20240623152021_CreatedSliderTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\Rashad\\OneDrive\\Desktop\\PB101\\code\\ElearningApi\\ElearningApi\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "ElearningApi\\Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Users\\Rashad\\OneDrive\\Desktop\\PB101\\code\\ElearningApi\\ElearningApi\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "ElearningApi\\Controllers\\StudentController.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAuwCoAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T22:41:12.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StudentService.cs",
+              "DocumentMoniker": "C:\\Users\\Rashad\\OneDrive\\Desktop\\PB101\\code\\ElearningApi\\ElearningApi\\Services\\StudentService.cs",
+              "RelativeDocumentMoniker": "ElearningApi\\Services\\StudentService.cs",
+              "ToolTip": "C:\\Users\\Rashad\\OneDrive\\Desktop\\PB101\\code\\ElearningApi\\ElearningApi\\Services\\StudentService.cs",
+              "RelativeToolTip": "ElearningApi\\Services\\StudentService.cs",
+              "ViewState": "AQIAAEQAAAAAAAAAAAAiwEsAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T22:35:14.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IStudentService.cs",
+              "DocumentMoniker": "C:\\Users\\Rashad\\OneDrive\\Desktop\\PB101\\code\\ElearningApi\\ElearningApi\\Services\\Interfaces\\IStudentService.cs",
+              "RelativeDocumentMoniker": "ElearningApi\\Services\\Interfaces\\IStudentService.cs",
+              "ToolTip": "C:\\Users\\Rashad\\OneDrive\\Desktop\\PB101\\code\\ElearningApi\\ElearningApi\\Services\\Interfaces\\IStudentService.cs",
+              "RelativeToolTip": "ElearningApi\\Services\\Interfaces\\IStudentService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T22:35:04.012Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "InstructorCreateDto.cs",
+              "DocumentMoniker": "C:\\Users\\Rashad\\OneDrive\\Desktop\\PB101\\code\\ElearningApi\\ElearningApi\\DTOs\\Instructors\\InstructorCreateDto.cs",
+              "RelativeDocumentMoniker": "ElearningApi\\DTOs\\Instructors\\InstructorCreateDto.cs",
+              "ToolTip": "C:\\Users\\Rashad\\OneDrive\\Desktop\\PB101\\code\\ElearningApi\\ElearningApi\\DTOs\\Instructors\\InstructorCreateDto.cs",
+              "RelativeToolTip": "ElearningApi\\DTOs\\Instructors\\InstructorCreateDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T22:18:53.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IAboutService.cs",
+              "DocumentMoniker": "C:\\Users\\Rashad\\OneDrive\\Desktop\\PB101\\code\\ElearningApi\\ElearningApi\\Services\\Interfaces\\IAboutService.cs",
+              "RelativeDocumentMoniker": "ElearningApi\\Services\\Interfaces\\IAboutService.cs",
+              "ToolTip": "C:\\Users\\Rashad\\OneDrive\\Desktop\\PB101\\code\\ElearningApi\\ElearningApi\\Services\\Interfaces\\IAboutService.cs",
+              "RelativeToolTip": "ElearningApi\\Services\\Interfaces\\IAboutService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T17:59:22.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SocialService.cs",
+              "DocumentMoniker": "C:\\Users\\Rashad\\OneDrive\\Desktop\\PB101\\code\\ElearningApi\\ElearningApi\\Services\\SocialService.cs",
+              "RelativeDocumentMoniker": "ElearningApi\\Services\\SocialService.cs",
+              "ToolTip": "C:\\Users\\Rashad\\OneDrive\\Desktop\\PB101\\code\\ElearningApi\\ElearningApi\\Services\\SocialService.cs",
+              "RelativeToolTip": "ElearningApi\\Services\\SocialService.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwDkAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T22:02:58.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AboutController.cs",
+              "DocumentMoniker": "C:\\Users\\Rashad\\OneDrive\\Desktop\\PB101\\code\\ElearningApi\\ElearningApi\\Controllers\\AboutController.cs",
+              "RelativeDocumentMoniker": "ElearningApi\\Controllers\\AboutController.cs",
+              "ToolTip": "C:\\Users\\Rashad\\OneDrive\\Desktop\\PB101\\code\\ElearningApi\\ElearningApi\\Controllers\\AboutController.cs",
+              "RelativeToolTip": "ElearningApi\\Controllers\\AboutController.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAYwC0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T18:06:25.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "StudentEditDto.cs",
+              "DocumentMoniker": "C:\\Users\\Rashad\\OneDrive\\Desktop\\PB101\\code\\ElearningApi\\ElearningApi\\DTOs\\Students\\StudentEditDto.cs",
+              "RelativeDocumentMoniker": "ElearningApi\\DTOs\\Students\\StudentEditDto.cs",
+              "ToolTip": "C:\\Users\\Rashad\\OneDrive\\Desktop\\PB101\\code\\ElearningApi\\ElearningApi\\DTOs\\Students\\StudentEditDto.cs",
+              "RelativeToolTip": "ElearningApi\\DTOs\\Students\\StudentEditDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T22:29:50.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AboutService.cs",
+              "DocumentMoniker": "C:\\Users\\Rashad\\OneDrive\\Desktop\\PB101\\code\\ElearningApi\\ElearningApi\\Services\\AboutService.cs",
+              "RelativeDocumentMoniker": "ElearningApi\\Services\\AboutService.cs",
+              "ToolTip": "C:\\Users\\Rashad\\OneDrive\\Desktop\\PB101\\code\\ElearningApi\\ElearningApi\\Services\\AboutService.cs",
+              "RelativeToolTip": "ElearningApi\\Services\\AboutService.cs",
+              "ViewState": "AQIAADcAAAAAAAAAAAAkwFEAAAB0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T17:59:31.998Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Rashad\\OneDrive\\Desktop\\PB101\\code\\ElearningApi\\ElearningApi\\Program.cs",
+              "RelativeDocumentMoniker": "ElearningApi\\Program.cs",
+              "ToolTip": "C:\\Users\\Rashad\\OneDrive\\Desktop\\PB101\\code\\ElearningApi\\ElearningApi\\Program.cs",
+              "RelativeToolTip": "ElearningApi\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAASwBsAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T14:29:43.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "StudentCreateDto.cs",
+              "DocumentMoniker": "C:\\Users\\Rashad\\OneDrive\\Desktop\\PB101\\code\\ElearningApi\\ElearningApi\\DTOs\\Students\\StudentCreateDto.cs",
+              "RelativeDocumentMoniker": "ElearningApi\\DTOs\\Students\\StudentCreateDto.cs",
+              "ToolTip": "C:\\Users\\Rashad\\OneDrive\\Desktop\\PB101\\code\\ElearningApi\\ElearningApi\\DTOs\\Students\\StudentCreateDto.cs",
+              "RelativeToolTip": "ElearningApi\\DTOs\\Students\\StudentCreateDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T22:30:02.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "StudentDto.cs",
+              "DocumentMoniker": "C:\\Users\\Rashad\\OneDrive\\Desktop\\PB101\\code\\ElearningApi\\ElearningApi\\DTOs\\Students\\StudentDto.cs",
+              "RelativeDocumentMoniker": "ElearningApi\\DTOs\\Students\\StudentDto.cs",
+              "ToolTip": "C:\\Users\\Rashad\\OneDrive\\Desktop\\PB101\\code\\ElearningApi\\ElearningApi\\DTOs\\Students\\StudentDto.cs",
+              "RelativeToolTip": "ElearningApi\\DTOs\\Students\\StudentDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T22:29:40.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "InstructorDto.cs",
+              "DocumentMoniker": "C:\\Users\\Rashad\\OneDrive\\Desktop\\PB101\\code\\ElearningApi\\ElearningApi\\DTOs\\Instructors\\InstructorDto.cs",
+              "RelativeDocumentMoniker": "ElearningApi\\DTOs\\Instructors\\InstructorDto.cs",
+              "ToolTip": "C:\\Users\\Rashad\\OneDrive\\Desktop\\PB101\\code\\ElearningApi\\ElearningApi\\DTOs\\Instructors\\InstructorDto.cs",
+              "RelativeToolTip": "ElearningApi\\DTOs\\Instructors\\InstructorDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T22:18:43.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "InstructorEditDto.cs",
+              "DocumentMoniker": "C:\\Users\\Rashad\\OneDrive\\Desktop\\PB101\\code\\ElearningApi\\ElearningApi\\DTOs\\Instructors\\InstructorEditDto.cs",
+              "RelativeDocumentMoniker": "ElearningApi\\DTOs\\Instructors\\InstructorEditDto.cs",
+              "ToolTip": "C:\\Users\\Rashad\\OneDrive\\Desktop\\PB101\\code\\ElearningApi\\ElearningApi\\DTOs\\Instructors\\InstructorEditDto.cs",
+              "RelativeToolTip": "ElearningApi\\DTOs\\Instructors\\InstructorEditDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T22:19:05.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Rashad\\OneDrive\\Desktop\\PB101\\code\\ElearningApi\\ElearningApi\\Helpers\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "ElearningApi\\Helpers\\MappingProfile.cs",
+              "ToolTip": "C:\\Users\\Rashad\\OneDrive\\Desktop\\PB101\\code\\ElearningApi\\ElearningApi\\Helpers\\MappingProfile.cs",
+              "RelativeToolTip": "ElearningApi\\Helpers\\MappingProfile.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAQwDQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T14:37:53.443Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\Rashad\\OneDrive\\Desktop\\PB101\\code\\ElearningApi\\ElearningApi\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "ElearningApi\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\Rashad\\OneDrive\\Desktop\\PB101\\code\\ElearningApi\\ElearningApi\\Models\\Student.cs",
+              "RelativeToolTip": "ElearningApi\\Models\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T20:05:21.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "InstructorController.cs",
+              "DocumentMoniker": "C:\\Users\\Rashad\\OneDrive\\Desktop\\PB101\\code\\ElearningApi\\ElearningApi\\Controllers\\InstructorController.cs",
+              "RelativeDocumentMoniker": "ElearningApi\\Controllers\\InstructorController.cs",
+              "ToolTip": "C:\\Users\\Rashad\\OneDrive\\Desktop\\PB101\\code\\ElearningApi\\ElearningApi\\Controllers\\InstructorController.cs",
+              "RelativeToolTip": "ElearningApi\\Controllers\\InstructorController.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAA7wCwAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T22:26:41.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "InstructorService.cs",
+              "DocumentMoniker": "C:\\Users\\Rashad\\OneDrive\\Desktop\\PB101\\code\\ElearningApi\\ElearningApi\\Services\\InstructorService.cs",
+              "RelativeDocumentMoniker": "ElearningApi\\Services\\InstructorService.cs",
+              "ToolTip": "C:\\Users\\Rashad\\OneDrive\\Desktop\\PB101\\code\\ElearningApi\\ElearningApi\\Services\\InstructorService.cs",
+              "RelativeToolTip": "ElearningApi\\Services\\InstructorService.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAiwFAAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T22:22:28.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IInstructorService.cs",
+              "DocumentMoniker": "C:\\Users\\Rashad\\OneDrive\\Desktop\\PB101\\code\\ElearningApi\\ElearningApi\\Services\\Interfaces\\IInstructorService.cs",
+              "RelativeDocumentMoniker": "ElearningApi\\Services\\Interfaces\\IInstructorService.cs",
+              "ToolTip": "C:\\Users\\Rashad\\OneDrive\\Desktop\\PB101\\code\\ElearningApi\\ElearningApi\\Services\\Interfaces\\IInstructorService.cs",
+              "RelativeToolTip": "ElearningApi\\Services\\Interfaces\\IInstructorService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T22:21:08.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "BaseController.cs",
+              "DocumentMoniker": "C:\\Users\\Rashad\\OneDrive\\Desktop\\PB101\\code\\ElearningApi\\ElearningApi\\Controllers\\BaseController.cs",
+              "RelativeDocumentMoniker": "ElearningApi\\Controllers\\BaseController.cs",
+              "ToolTip": "C:\\Users\\Rashad\\OneDrive\\Desktop\\PB101\\code\\ElearningApi\\ElearningApi\\Controllers\\BaseController.cs",
+              "RelativeToolTip": "ElearningApi\\Controllers\\BaseController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T14:47:04.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AboutDto.cs",
+              "DocumentMoniker": "C:\\Users\\Rashad\\OneDrive\\Desktop\\PB101\\code\\ElearningApi\\ElearningApi\\DTOs\\Abouts\\AboutDto.cs",
+              "RelativeDocumentMoniker": "ElearningApi\\DTOs\\Abouts\\AboutDto.cs",
+              "ToolTip": "C:\\Users\\Rashad\\OneDrive\\Desktop\\PB101\\code\\ElearningApi\\ElearningApi\\DTOs\\Abouts\\AboutDto.cs",
+              "RelativeToolTip": "ElearningApi\\DTOs\\Abouts\\AboutDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T17:54:32.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Instructor.cs",
+              "DocumentMoniker": "C:\\Users\\Rashad\\OneDrive\\Desktop\\PB101\\code\\ElearningApi\\ElearningApi\\Models\\Instructor.cs",
+              "RelativeDocumentMoniker": "ElearningApi\\Models\\Instructor.cs",
+              "ToolTip": "C:\\Users\\Rashad\\OneDrive\\Desktop\\PB101\\code\\ElearningApi\\ElearningApi\\Models\\Instructor.cs",
+              "RelativeToolTip": "ElearningApi\\Models\\Instructor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T20:01:51.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "SocialController.cs",
+              "DocumentMoniker": "C:\\Users\\Rashad\\OneDrive\\Desktop\\PB101\\code\\ElearningApi\\ElearningApi\\Controllers\\SocialController.cs",
+              "RelativeDocumentMoniker": "ElearningApi\\Controllers\\SocialController.cs",
+              "ToolTip": "C:\\Users\\Rashad\\OneDrive\\Desktop\\PB101\\code\\ElearningApi\\ElearningApi\\Controllers\\SocialController.cs",
+              "RelativeToolTip": "ElearningApi\\Controllers\\SocialController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T22:08:06.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AboutCreateDto.cs",
+              "DocumentMoniker": "C:\\Users\\Rashad\\OneDrive\\Desktop\\PB101\\code\\ElearningApi\\ElearningApi\\DTOs\\Abouts\\AboutCreateDto.cs",
+              "RelativeDocumentMoniker": "ElearningApi\\DTOs\\Abouts\\AboutCreateDto.cs",
+              "ToolTip": "C:\\Users\\Rashad\\OneDrive\\Desktop\\PB101\\code\\ElearningApi\\ElearningApi\\DTOs\\Abouts\\AboutCreateDto.cs",
+              "RelativeToolTip": "ElearningApi\\DTOs\\Abouts\\AboutCreateDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T17:54:59.753Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ISocialService.cs",
+              "DocumentMoniker": "C:\\Users\\Rashad\\OneDrive\\Desktop\\PB101\\code\\ElearningApi\\ElearningApi\\Services\\Interfaces\\ISocialService.cs",
+              "RelativeDocumentMoniker": "ElearningApi\\Services\\Interfaces\\ISocialService.cs",
+              "ToolTip": "C:\\Users\\Rashad\\OneDrive\\Desktop\\PB101\\code\\ElearningApi\\ElearningApi\\Services\\Interfaces\\ISocialService.cs",
+              "RelativeToolTip": "ElearningApi\\Services\\Interfaces\\ISocialService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T22:02:49.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "SocialEditDto.cs",
+              "DocumentMoniker": "C:\\Users\\Rashad\\OneDrive\\Desktop\\PB101\\code\\ElearningApi\\ElearningApi\\DTOs\\Socials\\SocialEditDto.cs",
+              "RelativeDocumentMoniker": "ElearningApi\\DTOs\\Socials\\SocialEditDto.cs",
+              "ToolTip": "C:\\Users\\Rashad\\OneDrive\\Desktop\\PB101\\code\\ElearningApi\\ElearningApi\\DTOs\\Socials\\SocialEditDto.cs",
+              "RelativeToolTip": "ElearningApi\\DTOs\\Socials\\SocialEditDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T22:01:50.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "SocialCreateDto.cs",
+              "DocumentMoniker": "C:\\Users\\Rashad\\OneDrive\\Desktop\\PB101\\code\\ElearningApi\\ElearningApi\\DTOs\\Socials\\SocialCreateDto.cs",
+              "RelativeDocumentMoniker": "ElearningApi\\DTOs\\Socials\\SocialCreateDto.cs",
+              "ToolTip": "C:\\Users\\Rashad\\OneDrive\\Desktop\\PB101\\code\\ElearningApi\\ElearningApi\\DTOs\\Socials\\SocialCreateDto.cs",
+              "RelativeToolTip": "ElearningApi\\DTOs\\Socials\\SocialCreateDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T22:01:37.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "SocialDto.cs",
+              "DocumentMoniker": "C:\\Users\\Rashad\\OneDrive\\Desktop\\PB101\\code\\ElearningApi\\ElearningApi\\DTOs\\Socials\\SocialDto.cs",
+              "RelativeDocumentMoniker": "ElearningApi\\DTOs\\Socials\\SocialDto.cs",
+              "ToolTip": "C:\\Users\\Rashad\\OneDrive\\Desktop\\PB101\\code\\ElearningApi\\ElearningApi\\DTOs\\Socials\\SocialDto.cs",
+              "RelativeToolTip": "ElearningApi\\DTOs\\Socials\\SocialDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T22:01:28.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "InformationService.cs",
+              "DocumentMoniker": "C:\\Users\\Rashad\\OneDrive\\Desktop\\PB101\\code\\ElearningApi\\ElearningApi\\Services\\InformationService.cs",
+              "RelativeDocumentMoniker": "ElearningApi\\Services\\InformationService.cs",
+              "ToolTip": "C:\\Users\\Rashad\\OneDrive\\Desktop\\PB101\\code\\ElearningApi\\ElearningApi\\Services\\InformationService.cs",
+              "RelativeToolTip": "ElearningApi\\Services\\InformationService.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAgwDgAAACgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T21:47:52.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "InformationController.cs",
+              "DocumentMoniker": "C:\\Users\\Rashad\\OneDrive\\Desktop\\PB101\\code\\ElearningApi\\ElearningApi\\Controllers\\InformationController.cs",
+              "RelativeDocumentMoniker": "ElearningApi\\Controllers\\InformationController.cs",
+              "ToolTip": "C:\\Users\\Rashad\\OneDrive\\Desktop\\PB101\\code\\ElearningApi\\ElearningApi\\Controllers\\InformationController.cs",
+              "RelativeToolTip": "ElearningApi\\Controllers\\InformationController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T21:53:13.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "SliderController.cs",
+              "DocumentMoniker": "C:\\Users\\Rashad\\OneDrive\\Desktop\\PB101\\code\\ElearningApi\\ElearningApi\\Controllers\\SliderController.cs",
+              "RelativeDocumentMoniker": "ElearningApi\\Controllers\\SliderController.cs",
+              "ToolTip": "C:\\Users\\Rashad\\OneDrive\\Desktop\\PB101\\code\\ElearningApi\\ElearningApi\\Controllers\\SliderController.cs",
+              "RelativeToolTip": "ElearningApi\\Controllers\\SliderController.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAYwC0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T15:45:02.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "InformationDto.cs",
+              "DocumentMoniker": "C:\\Users\\Rashad\\OneDrive\\Desktop\\PB101\\code\\ElearningApi\\ElearningApi\\DTOs\\Informations\\InformationDto.cs",
+              "RelativeDocumentMoniker": "ElearningApi\\DTOs\\Informations\\InformationDto.cs",
+              "ToolTip": "C:\\Users\\Rashad\\OneDrive\\Desktop\\PB101\\code\\ElearningApi\\ElearningApi\\DTOs\\Informations\\InformationDto.cs",
+              "RelativeToolTip": "ElearningApi\\DTOs\\Informations\\InformationDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T21:42:41.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Social.cs",
+              "DocumentMoniker": "C:\\Users\\Rashad\\OneDrive\\Desktop\\PB101\\code\\ElearningApi\\ElearningApi\\Models\\Social.cs",
+              "RelativeDocumentMoniker": "ElearningApi\\Models\\Social.cs",
+              "ToolTip": "C:\\Users\\Rashad\\OneDrive\\Desktop\\PB101\\code\\ElearningApi\\ElearningApi\\Models\\Social.cs",
+              "RelativeToolTip": "ElearningApi\\Models\\Social.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T20:06:36.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "InformationCreatedDto.cs",
+              "DocumentMoniker": "C:\\Users\\Rashad\\OneDrive\\Desktop\\PB101\\code\\ElearningApi\\ElearningApi\\DTOs\\Informations\\InformationCreatedDto.cs",
+              "RelativeDocumentMoniker": "ElearningApi\\DTOs\\Informations\\InformationCreatedDto.cs",
+              "ToolTip": "C:\\Users\\Rashad\\OneDrive\\Desktop\\PB101\\code\\ElearningApi\\ElearningApi\\DTOs\\Informations\\InformationCreatedDto.cs",
+              "RelativeToolTip": "ElearningApi\\DTOs\\Informations\\InformationCreatedDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T21:42:52.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "CategoryCreateDto.cs",
+              "DocumentMoniker": "C:\\Users\\Rashad\\OneDrive\\Desktop\\PB101\\code\\ElearningApi\\ElearningApi\\DTOs\\Categories\\CategoryCreateDto.cs",
+              "RelativeDocumentMoniker": "ElearningApi\\DTOs\\Categories\\CategoryCreateDto.cs",
+              "ToolTip": "C:\\Users\\Rashad\\OneDrive\\Desktop\\PB101\\code\\ElearningApi\\ElearningApi\\DTOs\\Categories\\CategoryCreateDto.cs",
+              "RelativeToolTip": "ElearningApi\\DTOs\\Categories\\CategoryCreateDto.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T20:11:27.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "CourseController.cs",
+              "DocumentMoniker": "C:\\Users\\Rashad\\OneDrive\\Desktop\\PB101\\code\\ElearningApi\\ElearningApi\\Controllers\\CourseController.cs",
+              "RelativeDocumentMoniker": "ElearningApi\\Controllers\\CourseController.cs",
+              "ToolTip": "C:\\Users\\Rashad\\OneDrive\\Desktop\\PB101\\code\\ElearningApi\\ElearningApi\\Controllers\\CourseController.cs",
+              "RelativeToolTip": "ElearningApi\\Controllers\\CourseController.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAgwCwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T21:25:50.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "IInformationService.cs",
+              "DocumentMoniker": "C:\\Users\\Rashad\\OneDrive\\Desktop\\PB101\\code\\ElearningApi\\ElearningApi\\Services\\Interfaces\\IInformationService.cs",
+              "RelativeDocumentMoniker": "ElearningApi\\Services\\Interfaces\\IInformationService.cs",
+              "ToolTip": "C:\\Users\\Rashad\\OneDrive\\Desktop\\PB101\\code\\ElearningApi\\ElearningApi\\Services\\Interfaces\\IInformationService.cs",
+              "RelativeToolTip": "ElearningApi\\Services\\Interfaces\\IInformationService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T21:47:40.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "ICategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\Rashad\\OneDrive\\Desktop\\PB101\\code\\ElearningApi\\ElearningApi\\Services\\Interfaces\\ICategoryService.cs",
+              "RelativeDocumentMoniker": "ElearningApi\\Services\\Interfaces\\ICategoryService.cs",
+              "ToolTip": "C:\\Users\\Rashad\\OneDrive\\Desktop\\PB101\\code\\ElearningApi\\ElearningApi\\Services\\Interfaces\\ICategoryService.cs",
+              "RelativeToolTip": "ElearningApi\\Services\\Interfaces\\ICategoryService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T20:22:45.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "InformationEditDto.cs",
+              "DocumentMoniker": "C:\\Users\\Rashad\\OneDrive\\Desktop\\PB101\\code\\ElearningApi\\ElearningApi\\DTOs\\Informations\\InformationEditDto.cs",
+              "RelativeDocumentMoniker": "ElearningApi\\DTOs\\Informations\\InformationEditDto.cs",
+              "ToolTip": "C:\\Users\\Rashad\\OneDrive\\Desktop\\PB101\\code\\ElearningApi\\ElearningApi\\DTOs\\Informations\\InformationEditDto.cs",
+              "RelativeToolTip": "ElearningApi\\DTOs\\Informations\\InformationEditDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T21:43:07.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "CourseService.cs",
+              "DocumentMoniker": "C:\\Users\\Rashad\\OneDrive\\Desktop\\PB101\\code\\ElearningApi\\ElearningApi\\Services\\CourseService.cs",
+              "RelativeDocumentMoniker": "ElearningApi\\Services\\CourseService.cs",
+              "ToolTip": "C:\\Users\\Rashad\\OneDrive\\Desktop\\PB101\\code\\ElearningApi\\ElearningApi\\Services\\CourseService.cs",
+              "RelativeToolTip": "ElearningApi\\Services\\CourseService.cs",
+              "ViewState": "AQIAAFQAAAAAAAAAAAAiwF4AAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T20:53:01.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "CategoryDto.cs",
+              "DocumentMoniker": "C:\\Users\\Rashad\\OneDrive\\Desktop\\PB101\\code\\ElearningApi\\ElearningApi\\DTOs\\Categories\\CategoryDto.cs",
+              "RelativeDocumentMoniker": "ElearningApi\\DTOs\\Categories\\CategoryDto.cs",
+              "ToolTip": "C:\\Users\\Rashad\\OneDrive\\Desktop\\PB101\\code\\ElearningApi\\ElearningApi\\DTOs\\Categories\\CategoryDto.cs",
+              "RelativeToolTip": "ElearningApi\\DTOs\\Categories\\CategoryDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T20:10:57.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "CategoryEditDto.cs",
+              "DocumentMoniker": "C:\\Users\\Rashad\\OneDrive\\Desktop\\PB101\\code\\ElearningApi\\ElearningApi\\DTOs\\Categories\\CategoryEditDto.cs",
+              "RelativeDocumentMoniker": "ElearningApi\\DTOs\\Categories\\CategoryEditDto.cs",
+              "ToolTip": "C:\\Users\\Rashad\\OneDrive\\Desktop\\PB101\\code\\ElearningApi\\ElearningApi\\DTOs\\Categories\\CategoryEditDto.cs",
+              "RelativeToolTip": "ElearningApi\\DTOs\\Categories\\CategoryEditDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T20:11:11.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "CourseDto.cs",
+              "DocumentMoniker": "C:\\Users\\Rashad\\OneDrive\\Desktop\\PB101\\code\\ElearningApi\\ElearningApi\\DTOs\\Courses\\CourseDto.cs",
+              "RelativeDocumentMoniker": "ElearningApi\\DTOs\\Courses\\CourseDto.cs",
+              "ToolTip": "C:\\Users\\Rashad\\OneDrive\\Desktop\\PB101\\code\\ElearningApi\\ElearningApi\\DTOs\\Courses\\CourseDto.cs",
+              "RelativeToolTip": "ElearningApi\\DTOs\\Courses\\CourseDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T20:40:10.371Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Information.cs",
+              "DocumentMoniker": "C:\\Users\\Rashad\\OneDrive\\Desktop\\PB101\\code\\ElearningApi\\ElearningApi\\Models\\Information.cs",
+              "RelativeDocumentMoniker": "ElearningApi\\Models\\Information.cs",
+              "ToolTip": "C:\\Users\\Rashad\\OneDrive\\Desktop\\PB101\\code\\ElearningApi\\ElearningApi\\Models\\Information.cs",
+              "RelativeToolTip": "ElearningApi\\Models\\Information.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T20:07:33.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "InformationIcon.cs",
+              "DocumentMoniker": "C:\\Users\\Rashad\\OneDrive\\Desktop\\PB101\\code\\ElearningApi\\ElearningApi\\Models\\InformationIcon.cs",
+              "RelativeDocumentMoniker": "ElearningApi\\Models\\InformationIcon.cs",
+              "ToolTip": "C:\\Users\\Rashad\\OneDrive\\Desktop\\PB101\\code\\ElearningApi\\ElearningApi\\Models\\InformationIcon.cs",
+              "RelativeToolTip": "ElearningApi\\Models\\InformationIcon.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T20:08:03.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "CourseEditDto.cs",
+              "DocumentMoniker": "C:\\Users\\Rashad\\OneDrive\\Desktop\\PB101\\code\\ElearningApi\\ElearningApi\\DTOs\\Courses\\CourseEditDto.cs",
+              "RelativeDocumentMoniker": "ElearningApi\\DTOs\\Courses\\CourseEditDto.cs",
+              "ToolTip": "C:\\Users\\Rashad\\OneDrive\\Desktop\\PB101\\code\\ElearningApi\\ElearningApi\\DTOs\\Courses\\CourseEditDto.cs",
+              "RelativeToolTip": "ElearningApi\\DTOs\\Courses\\CourseEditDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T20:40:22.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "CourseCreateDto.cs",
+              "DocumentMoniker": "C:\\Users\\Rashad\\OneDrive\\Desktop\\PB101\\code\\ElearningApi\\ElearningApi\\DTOs\\Courses\\CourseCreateDto.cs",
+              "RelativeDocumentMoniker": "ElearningApi\\DTOs\\Courses\\CourseCreateDto.cs",
+              "ToolTip": "C:\\Users\\Rashad\\OneDrive\\Desktop\\PB101\\code\\ElearningApi\\ElearningApi\\DTOs\\Courses\\CourseCreateDto.cs",
+              "RelativeToolTip": "ElearningApi\\DTOs\\Courses\\CourseCreateDto.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAA5wA8AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T20:40:35.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\Rashad\\OneDrive\\Desktop\\PB101\\code\\ElearningApi\\ElearningApi\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "ElearningApi\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\Rashad\\OneDrive\\Desktop\\PB101\\code\\ElearningApi\\ElearningApi\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "ElearningApi\\Controllers\\CategoryController.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAA3wC4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T20:28:23.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "CategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\Rashad\\OneDrive\\Desktop\\PB101\\code\\ElearningApi\\ElearningApi\\Services\\CategoryService.cs",
+              "RelativeDocumentMoniker": "ElearningApi\\Services\\CategoryService.cs",
+              "ToolTip": "C:\\Users\\Rashad\\OneDrive\\Desktop\\PB101\\code\\ElearningApi\\ElearningApi\\Services\\CategoryService.cs",
+              "RelativeToolTip": "ElearningApi\\Services\\CategoryService.cs",
+              "ViewState": "AQIAADoAAAAAAAAAAAAkwFAAAAB7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T20:22:56.847Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "CourseImage.cs",
+              "DocumentMoniker": "C:\\Users\\Rashad\\OneDrive\\Desktop\\PB101\\code\\ElearningApi\\ElearningApi\\Models\\CourseImage.cs",
+              "RelativeDocumentMoniker": "ElearningApi\\Models\\CourseImage.cs",
+              "ToolTip": "C:\\Users\\Rashad\\OneDrive\\Desktop\\PB101\\code\\ElearningApi\\ElearningApi\\Models\\CourseImage.cs",
+              "RelativeToolTip": "ElearningApi\\Models\\CourseImage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T20:03:14.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "ICourseService.cs",
+              "DocumentMoniker": "C:\\Users\\Rashad\\OneDrive\\Desktop\\PB101\\code\\ElearningApi\\ElearningApi\\Services\\Interfaces\\ICourseService.cs",
+              "RelativeDocumentMoniker": "ElearningApi\\Services\\Interfaces\\ICourseService.cs",
+              "ToolTip": "C:\\Users\\Rashad\\OneDrive\\Desktop\\PB101\\code\\ElearningApi\\ElearningApi\\Services\\Interfaces\\ICourseService.cs",
+              "RelativeToolTip": "ElearningApi\\Services\\Interfaces\\ICourseService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T20:52:38.225Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "Course.cs",
+              "DocumentMoniker": "C:\\Users\\Rashad\\OneDrive\\Desktop\\PB101\\code\\ElearningApi\\ElearningApi\\Models\\Course.cs",
+              "RelativeDocumentMoniker": "ElearningApi\\Models\\Course.cs",
+              "ToolTip": "C:\\Users\\Rashad\\OneDrive\\Desktop\\PB101\\code\\ElearningApi\\ElearningApi\\Models\\Course.cs",
+              "RelativeToolTip": "ElearningApi\\Models\\Course.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T20:00:36.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "AboutEditDto.cs",
+              "DocumentMoniker": "C:\\Users\\Rashad\\OneDrive\\Desktop\\PB101\\code\\ElearningApi\\ElearningApi\\DTOs\\Abouts\\AboutEditDto.cs",
+              "RelativeDocumentMoniker": "ElearningApi\\DTOs\\Abouts\\AboutEditDto.cs",
+              "ToolTip": "C:\\Users\\Rashad\\OneDrive\\Desktop\\PB101\\code\\ElearningApi\\ElearningApi\\DTOs\\Abouts\\AboutEditDto.cs",
+              "RelativeToolTip": "ElearningApi\\DTOs\\Abouts\\AboutEditDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T17:54:44.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "CourseStudent.cs",
+              "DocumentMoniker": "C:\\Users\\Rashad\\OneDrive\\Desktop\\PB101\\code\\ElearningApi\\ElearningApi\\Models\\CourseStudent.cs",
+              "RelativeDocumentMoniker": "ElearningApi\\Models\\CourseStudent.cs",
+              "ToolTip": "C:\\Users\\Rashad\\OneDrive\\Desktop\\PB101\\code\\ElearningApi\\ElearningApi\\Models\\CourseStudent.cs",
+              "RelativeToolTip": "ElearningApi\\Models\\CourseStudent.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T20:03:48.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "About.cs",
+              "DocumentMoniker": "C:\\Users\\Rashad\\OneDrive\\Desktop\\PB101\\code\\ElearningApi\\ElearningApi\\Models\\About.cs",
+              "RelativeDocumentMoniker": "ElearningApi\\Models\\About.cs",
+              "ToolTip": "C:\\Users\\Rashad\\OneDrive\\Desktop\\PB101\\code\\ElearningApi\\ElearningApi\\Models\\About.cs",
+              "RelativeToolTip": "ElearningApi\\Models\\About.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T17:53:06.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\Rashad\\OneDrive\\Desktop\\PB101\\code\\ElearningApi\\ElearningApi\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "ElearningApi\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\Rashad\\OneDrive\\Desktop\\PB101\\code\\ElearningApi\\ElearningApi\\Models\\Category.cs",
+              "RelativeToolTip": "ElearningApi\\Models\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T20:00:04.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "20240623202154_CreatedTables.cs",
+              "DocumentMoniker": "C:\\Users\\Rashad\\OneDrive\\Desktop\\PB101\\code\\ElearningApi\\ElearningApi\\Migrations\\20240623202154_CreatedTables.cs",
+              "RelativeDocumentMoniker": "ElearningApi\\Migrations\\20240623202154_CreatedTables.cs",
+              "ToolTip": "C:\\Users\\Rashad\\OneDrive\\Desktop\\PB101\\code\\ElearningApi\\ElearningApi\\Migrations\\20240623202154_CreatedTables.cs",
+              "RelativeToolTip": "ElearningApi\\Migrations\\20240623202154_CreatedTables.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T20:21:54.23Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "InstructorSocial.cs",
+              "DocumentMoniker": "C:\\Users\\Rashad\\OneDrive\\Desktop\\PB101\\code\\ElearningApi\\ElearningApi\\Models\\InstructorSocial.cs",
+              "RelativeDocumentMoniker": "ElearningApi\\Models\\InstructorSocial.cs",
+              "ToolTip": "C:\\Users\\Rashad\\OneDrive\\Desktop\\PB101\\code\\ElearningApi\\ElearningApi\\Models\\InstructorSocial.cs",
+              "RelativeToolTip": "ElearningApi\\Models\\InstructorSocial.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T20:02:40.214Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "AppDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\Rashad\\OneDrive\\Desktop\\PB101\\code\\ElearningApi\\ElearningApi\\Data\\AppDBContext.cs",
+              "RelativeDocumentMoniker": "ElearningApi\\Data\\AppDBContext.cs",
+              "ToolTip": "C:\\Users\\Rashad\\OneDrive\\Desktop\\PB101\\code\\ElearningApi\\ElearningApi\\Data\\AppDBContext.cs",
+              "RelativeToolTip": "ElearningApi\\Data\\AppDBContext.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABYAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T14:38:27.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "Slider.cs",
+              "DocumentMoniker": "C:\\Users\\Rashad\\OneDrive\\Desktop\\PB101\\code\\ElearningApi\\ElearningApi\\Models\\Slider.cs",
+              "RelativeDocumentMoniker": "ElearningApi\\Models\\Slider.cs",
+              "ToolTip": "C:\\Users\\Rashad\\OneDrive\\Desktop\\PB101\\code\\ElearningApi\\ElearningApi\\Models\\Slider.cs",
+              "RelativeToolTip": "ElearningApi\\Models\\Slider.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T14:49:32.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\Rashad\\OneDrive\\Desktop\\PB101\\code\\ElearningApi\\ElearningApi\\Models\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "ElearningApi\\Models\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\Rashad\\OneDrive\\Desktop\\PB101\\code\\ElearningApi\\ElearningApi\\Models\\BaseEntity.cs",
+              "RelativeToolTip": "ElearningApi\\Models\\BaseEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T14:48:42.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "20240623180529_CreatedAboutTable.cs",
+              "DocumentMoniker": "C:\\Users\\Rashad\\OneDrive\\Desktop\\PB101\\code\\ElearningApi\\ElearningApi\\Migrations\\20240623180529_CreatedAboutTable.cs",
+              "RelativeDocumentMoniker": "ElearningApi\\Migrations\\20240623180529_CreatedAboutTable.cs",
+              "ToolTip": "C:\\Users\\Rashad\\OneDrive\\Desktop\\PB101\\code\\ElearningApi\\ElearningApi\\Migrations\\20240623180529_CreatedAboutTable.cs",
+              "RelativeToolTip": "ElearningApi\\Migrations\\20240623180529_CreatedAboutTable.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T18:05:29.648Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "SliderService.cs",
+              "DocumentMoniker": "C:\\Users\\Rashad\\OneDrive\\Desktop\\PB101\\code\\ElearningApi\\ElearningApi\\Services\\SliderService.cs",
+              "RelativeDocumentMoniker": "ElearningApi\\Services\\SliderService.cs",
+              "ToolTip": "C:\\Users\\Rashad\\OneDrive\\Desktop\\PB101\\code\\ElearningApi\\ElearningApi\\Services\\SliderService.cs",
+              "RelativeToolTip": "ElearningApi\\Services\\SliderService.cs",
+              "ViewState": "AQIAADwAAAAAAAAAAAAAAFIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T15:21:05.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "AboutConfigurations.cs",
+              "DocumentMoniker": "C:\\Users\\Rashad\\OneDrive\\Desktop\\PB101\\code\\ElearningApi\\ElearningApi\\Helpers\\EntityConfigurations\\AboutConfigurations.cs",
+              "RelativeDocumentMoniker": "ElearningApi\\Helpers\\EntityConfigurations\\AboutConfigurations.cs",
+              "ToolTip": "C:\\Users\\Rashad\\OneDrive\\Desktop\\PB101\\code\\ElearningApi\\ElearningApi\\Helpers\\EntityConfigurations\\AboutConfigurations.cs",
+              "RelativeToolTip": "ElearningApi\\Helpers\\EntityConfigurations\\AboutConfigurations.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T18:03:41.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "SliderConfigurations.cs",
+              "DocumentMoniker": "C:\\Users\\Rashad\\OneDrive\\Desktop\\PB101\\code\\ElearningApi\\ElearningApi\\Helpers\\EntityConfigurations\\SliderConfigurations.cs",
+              "RelativeDocumentMoniker": "ElearningApi\\Helpers\\EntityConfigurations\\SliderConfigurations.cs",
+              "ToolTip": "C:\\Users\\Rashad\\OneDrive\\Desktop\\PB101\\code\\ElearningApi\\ElearningApi\\Helpers\\EntityConfigurations\\SliderConfigurations.cs",
+              "RelativeToolTip": "ElearningApi\\Helpers\\EntityConfigurations\\SliderConfigurations.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T14:51:34.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "SliderDto.cs",
+              "DocumentMoniker": "C:\\Users\\Rashad\\OneDrive\\Desktop\\PB101\\code\\ElearningApi\\ElearningApi\\DTOs\\Sliders\\SliderDto.cs",
+              "RelativeDocumentMoniker": "ElearningApi\\DTOs\\Sliders\\SliderDto.cs",
+              "ToolTip": "C:\\Users\\Rashad\\OneDrive\\Desktop\\PB101\\code\\ElearningApi\\ElearningApi\\DTOs\\Sliders\\SliderDto.cs",
+              "RelativeToolTip": "ElearningApi\\DTOs\\Sliders\\SliderDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T14:55:10.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "ISliderService.cs",
+              "DocumentMoniker": "C:\\Users\\Rashad\\OneDrive\\Desktop\\PB101\\code\\ElearningApi\\ElearningApi\\Services\\Interfaces\\ISliderService.cs",
+              "RelativeDocumentMoniker": "ElearningApi\\Services\\Interfaces\\ISliderService.cs",
+              "ToolTip": "C:\\Users\\Rashad\\OneDrive\\Desktop\\PB101\\code\\ElearningApi\\ElearningApi\\Services\\Interfaces\\ISliderService.cs",
+              "RelativeToolTip": "ElearningApi\\Services\\Interfaces\\ISliderService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T15:20:53.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "SliderEditDto.cs",
+              "DocumentMoniker": "C:\\Users\\Rashad\\OneDrive\\Desktop\\PB101\\code\\ElearningApi\\ElearningApi\\DTOs\\Sliders\\SliderEditDto.cs",
+              "RelativeDocumentMoniker": "ElearningApi\\DTOs\\Sliders\\SliderEditDto.cs",
+              "ToolTip": "C:\\Users\\Rashad\\OneDrive\\Desktop\\PB101\\code\\ElearningApi\\ElearningApi\\DTOs\\Sliders\\SliderEditDto.cs",
+              "RelativeToolTip": "ElearningApi\\DTOs\\Sliders\\SliderEditDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T14:54:52.539Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "SliderCreateDto.cs",
+              "DocumentMoniker": "C:\\Users\\Rashad\\OneDrive\\Desktop\\PB101\\code\\ElearningApi\\ElearningApi\\DTOs\\Sliders\\SliderCreateDto.cs",
+              "RelativeDocumentMoniker": "ElearningApi\\DTOs\\Sliders\\SliderCreateDto.cs",
+              "ToolTip": "C:\\Users\\Rashad\\OneDrive\\Desktop\\PB101\\code\\ElearningApi\\ElearningApi\\DTOs\\Sliders\\SliderCreateDto.cs",
+              "RelativeToolTip": "ElearningApi\\DTOs\\Sliders\\SliderCreateDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T14:54:42.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "20240623152021_CreatedSliderTable.cs",
+              "DocumentMoniker": "C:\\Users\\Rashad\\OneDrive\\Desktop\\PB101\\code\\ElearningApi\\ElearningApi\\Migrations\\20240623152021_CreatedSliderTable.cs",
+              "RelativeDocumentMoniker": "ElearningApi\\Migrations\\20240623152021_CreatedSliderTable.cs",
+              "ToolTip": "C:\\Users\\Rashad\\OneDrive\\Desktop\\PB101\\code\\ElearningApi\\ElearningApi\\Migrations\\20240623152021_CreatedSliderTable.cs",
+              "RelativeToolTip": "ElearningApi\\Migrations\\20240623152021_CreatedSliderTable.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T15:20:21.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Rashad\\OneDrive\\Desktop\\PB101\\code\\ElearningApi\\ElearningApi\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "ElearningApi\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Rashad\\OneDrive\\Desktop\\PB101\\code\\ElearningApi\\ElearningApi\\appsettings.Development.json",
+              "RelativeToolTip": "ElearningApi\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAABfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-23T14:38:47.665Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "VG9FbA4ifpydxsnWY+2kfxAYyEGxYbFDzXs67i1CPoc=",
+  "Source": "ElearningApi",
+  "BasePath": "_content/ElearningApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "ElearningApi\\wwwroot",
+      "Source": "ElearningApi",
+      "ContentRoot": "C:\\Users\\Rashad\\OneDrive\\Desktop\\PB101\\code\\ElearningApi\\ElearningApi\\wwwroot\\",
+      "BasePath": "_content/ElearningApi",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Rashad\\OneDrive\\Desktop\\PB101\\code\\ElearningApi\\ElearningApi\\wwwroot\\images\\9c1eb5fd-2a1d-4179-bc6e-b61ddc277405-banner-bg-2.jpg",
+      "SourceId": "ElearningApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Rashad\\OneDrive\\Desktop\\PB101\\code\\ElearningApi\\ElearningApi\\wwwroot\\",
+      "BasePath": "_content/ElearningApi",
+      "RelativePath": "images/9c1eb5fd-2a1d-4179-bc6e-b61ddc277405-banner-bg-2.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\9c1eb5fd-2a1d-4179-bc6e-b61ddc277405-banner-bg-2.jpg"
+    }
+  ]
+}
